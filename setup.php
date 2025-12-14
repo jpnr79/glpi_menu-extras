@@ -49,7 +49,7 @@ function plugin_version_extras() {
         'requirements'   => [
             'glpi' => [
                 'min' => '10.0.0',
-                'max' => '10.1.0',
+                'max' => '12.0',
             ]
         ]
     ];
